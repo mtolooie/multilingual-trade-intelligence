@@ -70,6 +70,10 @@ We compute a trade intensity score using keyword-based economic signals:
 
 ---
 
+![Trade Intensity](./results/trade_intensity_comparison.png)
+
+---
+
 ## Key Insight
 
 Institutional text type strongly influences the density of trade intelligence signals. Legal-economic documents are significantly more informative for trade analytics than political parliamentary discourse.
