@@ -112,12 +112,6 @@ Developed as part of a research project in multilingual NLP and trade intelligen
 
 ---
 
-## Example Output
-
-![Trade Intensity](trade_intensity_comparison.png)
-
----
-
 ## License
 
 This project is for academic and research purposes.
