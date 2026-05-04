@@ -70,8 +70,8 @@ We compute a trade intensity score using keyword-based economic signals:
 
 ---
 
-#Out put Sample
-![Trade Intensity](./results/trade_intensity_comparison.png)
+## Out put Sample
+![Trade Intensity](./trade_intensity_comparison.png)
 
 ---
 
